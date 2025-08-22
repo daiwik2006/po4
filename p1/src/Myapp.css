@@ -1,0 +1,28 @@
+.myInfo{
+    width: 300px;
+    height: 400px;
+    background-color: whitesmoke;
+
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+    /*To allocate space*/
+    padding: 10px;
+    /* box-shadow: -2px 10px 10px 10px blue; */
+}
+.photo{
+    height: 100px;
+    width:75px;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    border-radius: 50px;
+}
+
+/* Increasing height of table row*/
+
+try{
+    height: 30px;
+}

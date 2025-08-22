@@ -1,9 +1,9 @@
 {
-  "name": "p1",
+  "name": "p004",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://daiwik2006.github.io/p1",
+  "homepage": "https://dhanush290707.github.io/p004",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -14,8 +14,7 @@
   },
   "dependencies": {
     "react": "^19.1.0",
-    "react-dom": "^19.1.0",
-    "react-router-dom": "^7.7.0"
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.30.1",

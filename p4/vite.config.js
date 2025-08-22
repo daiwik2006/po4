@@ -4,6 +4,5 @@ import react from '@vitejs/plugin-react-swc'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  server: {port:2006},
-  base: '/p1'
+  base: '/p004/',  // Updated base path to match the new project structure
 })
